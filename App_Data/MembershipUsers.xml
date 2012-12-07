@@ -1,0 +1,33 @@
+<Users>
+
+    <User>
+        <UserName>Bob</UserName>
+        <Password>bob</Password>
+        <Email>bob@contoso.com</Email>
+    </User>
+
+    <User>
+        <UserName>annie</UserName>
+        <Password>annie</Password>
+        <Email>annie@contoso.com</Email>
+    </User>
+
+    <User>
+        <UserName>pulte\cbox</UserName>
+        <Password>cbox</Password>
+        <Email>cbox@company.com</Email>
+    </User>
+
+    <User>
+        <UserName>rlad</UserName>
+        <Password>rlad</Password>
+        <Email>rlad@company.com</Email>
+    </User>
+
+    <User>
+        <UserName>lpico</UserName>
+        <Password>lpico</Password>
+        <Email>lpico@company.com</Email>
+    </User>
+
+</Users>
